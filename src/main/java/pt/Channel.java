@@ -1,0 +1,8 @@
+package pt;
+
+public enum Channel {
+    COLOR_CHANNEL,
+    VARIANCE_CHANNEL,
+    STANDARD_DEVIATION_CHANNEL,
+    SAMPLES_CHANNEL
+}
