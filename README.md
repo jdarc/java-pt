@@ -1,7 +1,6 @@
 # Java PT
 
-A Java port of the [Go](https://golang.org/) version written by [Michael Fogleman](https://github.com/fogleman/pt)
-to compare the performance of these two languages.
+Java port of the [Go](https://golang.org/) version written by [Michael Fogleman](https://github.com/fogleman/pt) to compare the performance of these two languages.
 
 ### Running
 
